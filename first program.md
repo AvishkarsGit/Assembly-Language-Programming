@@ -1,6 +1,7 @@
 ## 1. Write a ALP to print your name
 
-'''
+''' assembly
+
     section .data
     msg db 'avishkar kumbhar'
     msg_len equ $-msg
