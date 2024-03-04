@@ -1,8 +1,8 @@
 ## 1. Write a ALP to print your name
 
-''' assembly
+``` assembly
 
-    section .data
+section .data
     msg db 'avishkar kumbhar'
     msg_len equ $-msg
 
@@ -20,4 +20,4 @@ _start:
     mov rdi, 0
     syscall
     
-'''
+```
