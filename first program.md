@@ -1,5 +1,5 @@
 ## 1. Write a ALP to print your name
-#00000
+
 ``` assembly
 
 section .data
